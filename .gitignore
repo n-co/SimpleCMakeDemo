@@ -1,3 +1,10 @@
+# IDE
+.vs/
+
+# CMake
+out/
+.cpm_source_cache/
+
 # Prerequisites
 *.d
 
