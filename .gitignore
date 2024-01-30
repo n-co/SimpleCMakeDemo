@@ -41,3 +41,6 @@ docs/doxy/
 *.exe
 *.out
 *.app
+
+# working directory
+work/Logs/

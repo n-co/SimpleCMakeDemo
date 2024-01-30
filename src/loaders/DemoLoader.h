@@ -1,5 +1,6 @@
 #pragma once
 #include <string>
+#include <string_view>
 
 namespace demo {
 
@@ -17,7 +18,7 @@ public:
 
 private:
 	DemoLoader();
-	void set_logger() const;
+	void set_logger(std::string_view config_path) const;
 
 	std::string data;
 };
