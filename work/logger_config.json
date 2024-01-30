@@ -1,0 +1,7 @@
+{
+  "logger_name": "DEMO",
+  "console_level": "debug",
+  "file_level": "info",
+  "file_name": "DemoLog.log",
+  "file_path": "./Logs/"
+}

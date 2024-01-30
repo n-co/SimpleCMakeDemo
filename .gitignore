@@ -1,9 +1,13 @@
 # IDE
 .vs/
+!.vs/launch.vs.json
 
 # CMake
 out/
 .cpm_source_cache/
+
+# Doxygen
+docs/doxy/
 
 # Prerequisites
 *.d
@@ -37,3 +41,6 @@ out/
 *.exe
 *.out
 *.app
+
+# working directory
+work/Logs/
