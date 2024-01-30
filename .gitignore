@@ -5,6 +5,9 @@
 out/
 .cpm_source_cache/
 
+# Doxygen
+docs/doxy/
+
 # Prerequisites
 *.d
 
