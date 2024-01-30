@@ -9,3 +9,5 @@ include(cmake/CPM.cmake)
 include(cmake/Utilities.cmake)
 
 add_subdirectory(dependencies)
+
+add_subdirectory(src)
