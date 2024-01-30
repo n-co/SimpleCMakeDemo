@@ -5,6 +5,8 @@ project(
 	VERSION 0.0.1
 )
 
+set(CMAKE_CXX_STANDARD 20)
+
 include(cmake/CPM.cmake)
 include(cmake/Utilities.cmake)
 
